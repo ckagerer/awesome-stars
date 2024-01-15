@@ -23,6 +23,7 @@
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
 - [devops](#devops)
+- [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
 - [education](#education)
@@ -31,6 +32,7 @@
 - [finance](#finance)
 - [git](#git)
 - [github](#github)
+- [go](#go)
 - [good-first-issue](#good-first-issue)
 - [hacktoberfest](#hacktoberfest)
 - [java](#java)
@@ -39,10 +41,14 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [mongodb](#mongodb)
+- [monitoring](#monitoring)
+- [mysql](#mysql)
 - [nodejs](#nodejs)
 - [others](#others)
 - [package-manager](#package-manager)
 - [parsing](#parsing)
+- [postgresql](#postgresql)
 - [privacy](#privacy)
 - [python](#python)
 - [python3](#python3)
@@ -51,6 +57,7 @@
 - [rust](#rust)
 - [security](#security)
 - [shell](#shell)
+- [sqlite](#sqlite)
 - [terminal](#terminal)
 - [testing](#testing)
 - [windows](#windows)
@@ -88,6 +95,7 @@
 
 ## c 
 
+- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 - [jonasblixt/ufsm](https://github.com/jonasblixt/ufsm) - Statechart library and editor
 
@@ -134,7 +142,12 @@
 
 ## devops 
 
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
+
+## django 
+
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 
 ## docker 
 
@@ -170,6 +183,10 @@
 ## github 
 
 - [emanuelef/gh-repo-stats-server](https://github.com/emanuelef/gh-repo-stats-server) - Gain deeper insights into your favourite open-source repositories. Explore star trends showing daily stars and go beyond the 40k-star limit.
+
+## go 
+
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 
 ## good-first-issue 
 
@@ -227,6 +244,18 @@
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
+## mongodb 
+
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
+
+## monitoring 
+
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
+
+## mysql 
+
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
+
 ## nodejs 
 
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
@@ -251,6 +280,10 @@
 
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 
+## postgresql 
+
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
+
 ## privacy 
 
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -259,6 +292,8 @@
 
 ## python 
 
+- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -309,6 +344,10 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+
+## sqlite 
+
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 
 ## terminal 
 
