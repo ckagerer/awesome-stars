@@ -17,6 +17,7 @@
 - [Python](#python)
 - [Roff](#roff)
 - [Rust](#rust)
+- [Scala](#scala)
 - [Shell](#shell)
 - [TypeScript](#typescript)
 
@@ -105,6 +106,10 @@
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+
+## Scala 
+
+- [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 
 ## Shell 
 
