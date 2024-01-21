@@ -5,21 +5,30 @@
 
 ## Contents
 
+- [ai](#ai)
 - [algorithm](#algorithm)
 - [android](#android)
 - [ansible](#ansible)
+- [api](#api)
 - [atom](#atom)
+- [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bash](#bash)
+- [bioinformatics](#bioinformatics)
 - [c](#c)
+- [chatgpt](#chatgpt)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [code](#code)
+- [compiler](#compiler)
 - [computer-science](#computer-science)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
 - [cybersecurity](#cybersecurity)
+- [data-analysis](#data-analysis)
+- [data-science](#data-science)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
 - [devops](#devops)
@@ -30,22 +39,37 @@
 - [electron](#electron)
 - [emoji](#emoji)
 - [finance](#finance)
+- [flask](#flask)
+- [font](#font)
+- [framework](#framework)
 - [git](#git)
 - [github](#github)
 - [go](#go)
+- [golang](#golang)
 - [good-first-issue](#good-first-issue)
 - [hacktoberfest](#hacktoberfest)
+- [haskell](#haskell)
+- [http](#http)
+- [icon-font](#icon-font)
+- [image-processing](#image-processing)
 - [java](#java)
 - [javascript](#javascript)
+- [julia](#julia)
+- [jupyter-notebook](#jupyter-notebook)
+- [kubernetes](#kubernetes)
 - [linux](#linux)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [microsoft](#microsoft)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
 - [nodejs](#nodejs)
+- [numpy](#numpy)
+- [open-source](#open-source)
 - [others](#others)
+- [p2p](#p2p)
 - [package-manager](#package-manager)
 - [parsing](#parsing)
 - [postgresql](#postgresql)
@@ -53,14 +77,29 @@
 - [python](#python)
 - [python3](#python3)
 - [qt](#qt)
+- [r](#r)
+- [react](#react)
 - [react-native](#react-native)
+- [reverse-engineering](#reverse-engineering)
+- [ruby](#ruby)
 - [rust](#rust)
+- [scikit-learn](#scikit-learn)
 - [security](#security)
 - [shell](#shell)
 - [sqlite](#sqlite)
+- [swift](#swift)
 - [terminal](#terminal)
 - [testing](#testing)
+- [typescript](#typescript)
+- [vagrant](#vagrant)
+- [visual-studio-code](#visual-studio-code)
+- [vue](#vue)
 - [windows](#windows)
+
+## ai 
+
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 
 ## algorithm 
 
@@ -69,16 +108,26 @@
 
 ## android 
 
+- [nextcloud/news-android](https://github.com/nextcloud/news-android) - 📱🗞️ Android client for the Nextcloud news/feed reader app
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [moneymanagerex/android-money-manager-ex](https://github.com/moneymanagerex/android-money-manager-ex) - Android version of Money Manager Ex
 
 ## ansible 
 
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
+
+## api 
+
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 
 ## atom 
 
 - [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - Feed reader (and podcast player) which supports RSS/ATOM/JSON and many web-based feed services.
+
+## automation 
+
+- [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 
 ## awesome 
 
@@ -93,11 +142,21 @@
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 
+## bioinformatics 
+
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
+
 ## c 
 
+- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
+- [meekrosoft/fff](https://github.com/meekrosoft/fff) - A testing micro framework for creating function test doubles
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 - [jonasblixt/ufsm](https://github.com/jonasblixt/ufsm) - Statechart library and editor
+
+## chatgpt 
+
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 
 ## chrome-extension 
 
@@ -105,9 +164,18 @@
 
 ## cli 
 
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
+
+## code 
+
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
+
+## compiler 
+
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 
 ## computer-science 
 
@@ -120,6 +188,8 @@
 
 ## cpp 
 
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+- [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 - [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 
@@ -131,6 +201,20 @@
 
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 
+## data-analysis 
+
+- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
+- [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+
+## data-science 
+
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
+- [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
+- [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
+- [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
+- [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+
 ## data-structures 
 
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
@@ -138,10 +222,16 @@
 
 ## data-visualization 
 
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
+- [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
+- [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
+- [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 
 ## devops 
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 
@@ -151,6 +241,10 @@
 
 ## docker 
 
+- [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release) - Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
+- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 
 ## documentation 
@@ -164,6 +258,8 @@
 
 ## electron 
 
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 
 ## emoji 
@@ -172,22 +268,53 @@
 
 ## finance 
 
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [moneymanagerex/android-money-manager-ex](https://github.com/moneymanagerex/android-money-manager-ex) - Android version of Money Manager Ex
 - [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 
+## flask 
+
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
+
+## font 
+
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+
+## framework 
+
+- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+- [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
+
 ## git 
 
+- [mhutchie/vscode-git-graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph.
+- [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
+- [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 
 ## github 
 
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [emanuelef/gh-repo-stats-server](https://github.com/emanuelef/gh-repo-stats-server) - Gain deeper insights into your favourite open-source repositories. Explore star trends showing daily stars and go beyond the 40k-star limit.
 
 ## go 
 
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+
+## golang 
+
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 
 ## good-first-issue 
 
@@ -195,6 +322,20 @@
 
 ## hacktoberfest 
 
+- [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
+- [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+- [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
+- [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes
+- [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+- [nextcloud/news](https://github.com/nextcloud/news) - :newspaper: RSS/Atom feed reader
+- [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
@@ -208,19 +349,54 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 
+## haskell 
+
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+
+## http 
+
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+
+## icon-font 
+
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+
+## image-processing 
+
+- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+
 ## java 
 
+- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [portfolio-performance/portfolio](https://github.com/portfolio-performance/portfolio) - Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other assets.
 - [moneymanagerex/android-money-manager-ex](https://github.com/moneymanagerex/android-money-manager-ex) - Android version of Money Manager Ex
 
 ## javascript 
 
+- [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
+- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 
+## julia 
+
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
+
+## jupyter-notebook 
+
+- [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
+
+## kubernetes 
+
+- [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes
+- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
+
 ## linux 
 
+- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [miurahr/aqtinstall](https://github.com/miurahr/aqtinstall) - aqt: Another (unofficial) Qt  CLI  Installer on multi-platforms
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
@@ -235,6 +411,7 @@
 
 ## macos 
 
+- [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
@@ -244,6 +421,11 @@
 
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+
+## microsoft 
+
+- [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## mongodb 
 
@@ -261,8 +443,24 @@
 
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 
+## numpy 
+
+- [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
+- [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
+
+## open-source 
+
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
+- [nextcloud/news-android](https://github.com/nextcloud/news-android) - 📱🗞️ Android client for the Nextcloud news/feed reader app
+
 ## others 
 
+- [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
+- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+- [muka/privategpt-docker](https://github.com/muka/privategpt-docker) - 
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [square/pylink](https://github.com/square/pylink) - Python Library for device debugging/programming via J-Link
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [ActiveState/appdirs](https://github.com/ActiveState/appdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
@@ -277,12 +475,17 @@
 - [ChristianLempa/homelab](https://github.com/ChristianLempa/homelab) - This is my entire homelab documentation files. Here you'll find notes, setups, and configurations for infrastructure, applications, networking, and more.
 - [hugeproblem/nged](https://github.com/hugeproblem/nged) - A Node Graph EDitor
 
+## p2p 
+
+- [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
+
 ## package-manager 
 
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 
 ## parsing 
 
+- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 
 ## postgresql 
@@ -291,12 +494,37 @@
 
 ## privacy 
 
+- [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 
 ## python 
 
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
+- [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
+- [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
+- [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
+- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+- [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
+- [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
+- [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
+- [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
+- [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
+- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+- [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+- [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+- [floatingpurr/sync_with_poetry](https://github.com/floatingpurr/sync_with_poetry) - Sync .pre-commit-config.yaml repos starting from poetry.lock
+- [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
+- [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
+- [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
+- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
@@ -322,21 +550,49 @@
 
 ## qt 
 
+- [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - Feed reader (and podcast player) which supports RSS/ATOM/JSON and many web-based feed services.
 - [miurahr/aqtinstall](https://github.com/miurahr/aqtinstall) - aqt: Another (unofficial) Qt  CLI  Installer on multi-platforms
+
+## r 
+
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
+
+## react 
+
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
+- [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 
 ## react-native 
 
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 
+## reverse-engineering 
+
+- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
+
+## ruby 
+
+- [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
+
 ## rust 
 
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+- [russellbanks/Komac](https://github.com/russellbanks/Komac) - The Community Manifest Creator for WinGet
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 
+## scikit-learn 
+
+- [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
+
 ## security 
 
+- [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
@@ -344,6 +600,8 @@
 
 ## shell 
 
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -354,8 +612,13 @@
 
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 
+## swift 
+
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+
 ## terminal 
 
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -364,10 +627,36 @@
 
 ## testing 
 
+- [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
+- [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
+
+## typescript 
+
+- [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
+- [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
+
+## vagrant 
+
+- [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
+
+## visual-studio-code 
+
+- [mhutchie/vscode-git-graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph.
+- [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release) - Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+## vue 
+
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 ## windows 
 
+- [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [miurahr/aqtinstall](https://github.com/miurahr/aqtinstall) - aqt: Another (unofficial) Qt  CLI  Installer on multi-platforms
