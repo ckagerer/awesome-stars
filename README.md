@@ -45,6 +45,7 @@
 
 ## C++ 
 
+- [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [jupyter-xeus/xeus](https://github.com/jupyter-xeus/xeus) - Implementation of the Jupyter kernel protocol in C++
 - [root-project/cling](https://github.com/root-project/cling) - The cling C++ interpreter
 - [jupyter-xeus/xeus-cling](https://github.com/jupyter-xeus/xeus-cling) - Jupyter kernel for the C++ programming language
@@ -105,6 +106,7 @@
 
 ## JavaScript 
 
+- [EU-EDPS/website-evidence-collector](https://github.com/EU-EDPS/website-evidence-collector) - The tool Website Evidence Collector (WEC) automates the website evidence collection of storage and transfer of personal data. https://edps.europa.eu/press-publications/edps-inspection-software_en
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [DavidAnson/vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
@@ -233,6 +235,7 @@
 
 ## TypeScript 
 
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [ansible/vscode-ansible](https://github.com/ansible/vscode-ansible) - vscode/vscodium extension for providing Ansible auto-completion and integrating quality assurance tools like ansible-lint, ansible syntax check, yamllint, molecule and ansible-test.
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
