@@ -141,6 +141,7 @@
 
 ## arduino 
 
+- [marcinbor85/microshell](https://github.com/marcinbor85/microshell) - MicroShell is a lightweight pure C implementation of shell emulator dedicated for embedded bare-metal systems.
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 
 ## artificial-intelligence 
@@ -170,6 +171,7 @@
 
 ## bash 
 
+- [marcinbor85/microshell](https://github.com/marcinbor85/microshell) - MicroShell is a lightweight pure C implementation of shell emulator dedicated for embedded bare-metal systems.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [rusty-ferris-club/shellclear](https://github.com/rusty-ferris-club/shellclear) - Secure shell history commands by finding sensitive data
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
@@ -182,6 +184,7 @@
 
 ## c 
 
+- [nanopb/nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [meekrosoft/fff](https://github.com/meekrosoft/fff) - A testing micro framework for creating function test doubles
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
@@ -200,6 +203,7 @@
 
 ## cli 
 
+- [marcinbor85/microshell](https://github.com/marcinbor85/microshell) - MicroShell is a lightweight pure C implementation of shell emulator dedicated for embedded bare-metal systems.
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
@@ -450,6 +454,7 @@
 
 ## iot 
 
+- [mpaland/printf](https://github.com/mpaland/printf) - Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 
@@ -562,6 +567,8 @@
 
 ## others 
 
+- [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
+- [apache/nuttx](https://github.com/apache/nuttx) - Apache NuttX is a mature, real-time embedded operating system (RTOS)
 - [kata0510/Lily58](https://github.com/kata0510/Lily58) - 6×4+4keys column-staggered split keyboard.
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
 - [holoviz/panel](https://github.com/holoviz/panel) - Panel: The powerful data exploration & web app framework for Python
@@ -763,6 +770,7 @@
 
 ## shell 
 
+- [marcinbor85/microshell](https://github.com/marcinbor85/microshell) - MicroShell is a lightweight pure C implementation of shell emulator dedicated for embedded bare-metal systems.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [rusty-ferris-club/shellclear](https://github.com/rusty-ferris-club/shellclear) - Secure shell history commands by finding sensitive data
@@ -789,6 +797,7 @@
 
 ## terminal 
 
+- [marcinbor85/microshell](https://github.com/marcinbor85/microshell) - MicroShell is a lightweight pure C implementation of shell emulator dedicated for embedded bare-metal systems.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
