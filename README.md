@@ -94,6 +94,7 @@
 
 ## Go 
 
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [mk-5/fjira](https://github.com/mk-5/fjira) - The golang fuzzy-find cli jira interface 🚀
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -141,6 +142,7 @@
 
 ## JavaScript 
 
+- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [EU-EDPS/website-evidence-collector](https://github.com/EU-EDPS/website-evidence-collector) - The tool Website Evidence Collector (WEC) automates the website evidence collection of storage and transfer of personal data. https://edps.europa.eu/press-publications/edps-inspection-software_en
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
@@ -173,6 +175,8 @@
 
 ## Others 
 
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [mgreiler/code-review-checklist](https://github.com/mgreiler/code-review-checklist) - This code review checklist helps you be a more effective and efficient code reviewer.
 - [kata0510/Lily58](https://github.com/kata0510/Lily58) - 6×4+4keys column-staggered split keyboard.
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
@@ -273,6 +277,7 @@
 
 ## Rust 
 
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
@@ -297,6 +302,7 @@
 
 ## Shell 
 
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [foxundermoon/vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript、Dockerfile、properties ...... format extension
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
@@ -311,6 +317,8 @@
 
 ## TypeScript 
 
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+- [dseight/vscode-disasexpl](https://github.com/dseight/vscode-disasexpl) - Disassembly Explorer for VS Code
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [reorproject/reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally.
