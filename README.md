@@ -53,6 +53,7 @@
 
 ## C# # 
 
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [tom-englert/RegionToShare](https://github.com/tom-englert/RegionToShare) - Helper app to share only a part of a screen via video conference apps
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [dotnet/interactive](https://github.com/dotnet/interactive) - .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways y
@@ -202,6 +203,7 @@
 
 ## Python 
 
+- [ttsiodras/checkStackUsage](https://github.com/ttsiodras/checkStackUsage) - Compute the stack used by each of your functions (via GCC's `-fstack-usage` and call-graph tracing)
 - [terryyin/lizard](https://github.com/terryyin/lizard) - A simple code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.
 - [mrh1997/headlock](https://github.com/mrh1997/headlock) - An adapter for making C code testable from Python (see https://headlock.readthedocs.io/en/latest)
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
@@ -317,6 +319,9 @@
 
 ## TypeScript 
 
+- [XibrenX/gcc-stack-usage](https://github.com/XibrenX/gcc-stack-usage) - Gcc stack usage
+- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
+- [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [dseight/vscode-disasexpl](https://github.com/dseight/vscode-disasexpl) - Disassembly Explorer for VS Code
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
