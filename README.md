@@ -213,6 +213,7 @@
 
 ## Perl 
 
+- [zonemaster/zonemaster](https://github.com/zonemaster/zonemaster) - The Zonemaster Project
 - [thesourcerer8/altium2kicad](https://github.com/thesourcerer8/altium2kicad) - Altium to KiCad converter for PCB and schematics
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
@@ -223,6 +224,7 @@
 
 ## Python 
 
+- [farrokhi/dnsdiag](https://github.com/farrokhi/dnsdiag) - DNS Measurement, Troubleshooting and Security Auditing Toolset
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
