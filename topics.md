@@ -747,6 +747,8 @@
 
 ## others 
 
+- [zonemaster/zonemaster](https://github.com/zonemaster/zonemaster) - The Zonemaster Project
+- [farrokhi/dnsdiag](https://github.com/farrokhi/dnsdiag) - DNS Measurement, Troubleshooting and Security Auditing Toolset
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
 - [freerouting/freerouting](https://github.com/freerouting/freerouting) - Advanced PCB auto-router
