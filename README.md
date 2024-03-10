@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -19,6 +20,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [Markdown](#markdown)
 - [Nix](#nix)
 - [OCaml](#ocaml)
@@ -34,6 +36,10 @@
 - [Shell](#shell)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+
+## Batchfile 
+
+- [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) - Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.
 
 ## C 
 
@@ -109,6 +115,7 @@
 
 ## Go 
 
+- [projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx) - dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
 - [kovetskiy/mark](https://github.com/kovetskiy/mark) - Sync your markdown files with Confluence pages.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -179,6 +186,10 @@
 - [IRkernel/IRkernel](https://github.com/IRkernel/IRkernel) - R kernel for Jupyter
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
+
+## Kotlin 
+
+- [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 
 ## Markdown 
 
