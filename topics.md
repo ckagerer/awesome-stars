@@ -149,6 +149,7 @@
 
 ## android 
 
+- [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
@@ -248,6 +249,7 @@
 
 ## cli 
 
+- [projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx) - dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -742,11 +744,13 @@
 
 ## open-source 
 
+- [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains
 - [nextcloud/news-android](https://github.com/nextcloud/news-android) - 📱🗞️ Android client for the Nextcloud news/feed reader app
 
 ## others 
 
+- [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) - Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.
 - [zonemaster/zonemaster](https://github.com/zonemaster/zonemaster) - The Zonemaster Project
 - [farrokhi/dnsdiag](https://github.com/farrokhi/dnsdiag) - DNS Measurement, Troubleshooting and Security Auditing Toolset
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
