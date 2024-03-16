@@ -44,6 +44,8 @@
 
 ## C 
 
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) - Eclipse ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
 - [smaroukis/usb-sleuth](https://github.com/smaroukis/usb-sleuth) - USB cable continuity tester ++
@@ -80,6 +82,7 @@
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [mhammond/pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [jupyter-xeus/xeus](https://github.com/jupyter-xeus/xeus) - Implementation of the Jupyter kernel protocol in C++
 - [root-project/cling](https://github.com/root-project/cling) - The cling C++ interpreter
@@ -127,7 +130,6 @@
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [fbonalair/traefik-crowdsec-bouncer](https://github.com/fbonalair/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
@@ -170,6 +172,8 @@
 
 ## JavaScript 
 
+- [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -240,6 +244,7 @@
 
 ## Python 
 
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [HBehrens/puncover](https://github.com/HBehrens/puncover) - Analyses C/C++ build output for code size, static variables, and stack usage
 - [jedrzejboczar/elf-size-analyze](https://github.com/jedrzejboczar/elf-size-analyze) - Script for analyzing ELF memory usage
 - [farrokhi/dnsdiag](https://github.com/farrokhi/dnsdiag) - DNS Measurement, Troubleshooting and Security Auditing Toolset
