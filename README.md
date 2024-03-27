@@ -370,6 +370,7 @@
 
 ## Shell 
 
+- [dperson/samba](https://github.com/dperson/samba) - Samba docker container
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) - EMBA - The firmware security analyzer
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
