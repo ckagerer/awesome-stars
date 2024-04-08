@@ -69,7 +69,7 @@
 
 ## C# # 
 
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
 - [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [tom-englert/RegionToShare](https://github.com/tom-englert/RegionToShare) - Helper app to share only a part of a screen via video conference apps
@@ -78,6 +78,7 @@
 
 ## C++ 
 
+- [Komet/MediaElch](https://github.com/Komet/MediaElch) - Media Manager for Kodi
 - [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
@@ -120,7 +121,7 @@
 
 ## Dart 
 
-- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source.
+- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 
