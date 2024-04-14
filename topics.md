@@ -100,6 +100,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [material-design](#material-design)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -114,6 +115,7 @@
 - [npm](#npm)
 - [numpy](#numpy)
 - [open-source](#open-source)
+- [opencv](#opencv)
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
@@ -145,10 +147,12 @@
 - [self-hosted](#self-hosted)
 - [shell](#shell)
 - [sqlite](#sqlite)
+- [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
 - [swift](#swift)
 - [telegram](#telegram)
 - [terminal](#terminal)
+- [termux](#termux)
 - [testing](#testing)
 - [twitter](#twitter)
 - [typescript](#typescript)
@@ -182,6 +186,11 @@
 
 ## android 
 
+- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+- [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+- [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Android document document scanning app
+- [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [zaneschepke/wgtunnel](https://github.com/zaneschepke/wgtunnel) - An alternative Android client app for WireGuard VPN
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
@@ -664,6 +673,8 @@
 
 ## hacktoberfest 
 
+- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
@@ -747,6 +758,7 @@
 
 ## image-processing 
 
+- [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Android document document scanning app
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 
 ## ios 
@@ -836,6 +848,7 @@
 
 ## linux 
 
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [abhigenie92/unattended_upgrades_repos](https://github.com/abhigenie92/unattended_upgrades_repos) - Generates system-specific repositories to be added in configuration file for silently updating all packages via unattended upgrades.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
@@ -921,6 +934,10 @@
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
+## material-design 
+
+- [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
+
 ## microsoft 
 
 - [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.
@@ -1003,6 +1020,10 @@
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains
 - [nextcloud/news-android](https://github.com/nextcloud/news-android) - 📱🗞️ Android client for the Nextcloud news/feed reader app
+
+## opencv 
+
+- [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Android document document scanning app
 
 ## others 
 
@@ -1239,6 +1260,7 @@
 
 ## qt 
 
+- [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [Mahlet-Inc/hobbits](https://github.com/Mahlet-Inc/hobbits) - A multi-platform GUI for bit-based analysis, processing, and visualization
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - Feed reader (and podcast player) which supports RSS/ATOM/JSON and many web-based feed services.
@@ -1387,6 +1409,10 @@
 
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 
+## stable-diffusion 
+
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
+
 ## statistics 
 
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -1401,6 +1427,7 @@
 
 ## terminal 
 
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -1424,6 +1451,10 @@
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+
+## termux 
+
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 ## testing 
 
