@@ -233,7 +233,7 @@
 ## artificial-intelligence 
 
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) - EMBA - The firmware security analyzer
-- [rjmacarthy/twinny](https://github.com/rjmacarthy/twinny) - The most no-nonsense locally hosted (or API hosted) AI code completion plugin for Visual Studio Code, like GitHub Copilot but 100% free!
+- [rjmacarthy/twinny](https://github.com/rjmacarthy/twinny) - The ultimate straightforward, locally or API-hosted AI code completion plugin for Visual Studio Code—like GitHub Copilot but completely free!
 
 ## atom 
 
