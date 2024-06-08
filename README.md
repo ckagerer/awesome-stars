@@ -419,6 +419,10 @@
 
 ## Rust 
 
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
+- [konradsz/igrep](https://github.com/konradsz/igrep) - Interactive Grep
+- [elkowar/pipr](https://github.com/elkowar/pipr) - A tool to interactively write shell pipelines.
+- [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [igor-petruk/scriptisto](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write scripts in compiled languages.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
