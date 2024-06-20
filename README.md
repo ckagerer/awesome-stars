@@ -288,7 +288,7 @@
 ## Others 
 
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - move to https://spacevim.org/git/repos/SpaceVim/
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [joanbono/awesome-kicad](https://github.com/joanbono/awesome-kicad) - A curated list of awesome KiCad plugins and resources
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
