@@ -1149,6 +1149,7 @@
 
 ## others 
 
+- [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [MaJerle/lwow](https://github.com/MaJerle/lwow) - Lightweight onewire protocol library optimized for UART hardware on embedded systems
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
