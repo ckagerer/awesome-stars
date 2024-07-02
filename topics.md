@@ -1538,7 +1538,7 @@
 - [fbonalair/traefik-crowdsec-bouncer](https://github.com/fbonalair/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec.
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [OWASP/cumulus](https://github.com/OWASP/cumulus) - Cumulus. Threat modeling the Clouds.
-- [TNG/elevation-of-privilege](https://github.com/TNG/elevation-of-privilege) - An online multiplayer version of the threat modeling card games: Elevation of Privilege (EoP), OWASP Cornucopia and OWASP Cumulus.
+- [TNG/elevation-of-privilege](https://github.com/TNG/elevation-of-privilege) - An online multiplayer version of the threat modeling card games: Elevation of Privilege (EoP), OWASP Cornucopia, OWASP Cumulus, and Elevation of MLsec.
 - [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
