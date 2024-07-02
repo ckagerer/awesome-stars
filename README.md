@@ -547,7 +547,7 @@
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
 - [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter) - VS Code Jupyter extension
 - [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) - Project Manager Extension for Visual Studio Code
-- [TNG/elevation-of-privilege](https://github.com/TNG/elevation-of-privilege) - An online multiplayer version of the threat modeling card games: Elevation of Privilege (EoP), OWASP Cornucopia and OWASP Cumulus.
+- [TNG/elevation-of-privilege](https://github.com/TNG/elevation-of-privilege) - An online multiplayer version of the threat modeling card games: Elevation of Privilege (EoP), OWASP Cornucopia, OWASP Cumulus, and Elevation of MLsec.
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [mhutchie/vscode-git-graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph.
