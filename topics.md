@@ -1149,6 +1149,7 @@
 
 ## others 
 
+- [leoheck/kiri](https://github.com/leoheck/kiri) - Kiri is a visual tool designed for reviewing schematics and layouts of KiCad projects that are version-controlled with Git.
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [MaJerle/lwow](https://github.com/MaJerle/lwow) - Lightweight onewire protocol library optimized for UART hardware on embedded systems
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
