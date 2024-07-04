@@ -246,7 +246,7 @@
 
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) - EMBA - The firmware security analyzer
-- [rjmacarthy/twinny](https://github.com/rjmacarthy/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but completely free and 100% private.
+- [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but completely free and 100% private.
 
 ## atom 
 
@@ -352,7 +352,7 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx) - dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
@@ -1125,7 +1125,7 @@
 
 ## npm 
 
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 
 ## numpy 
@@ -1254,7 +1254,7 @@
 ## package-manager 
 
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
@@ -1750,7 +1750,7 @@
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3 and Polybar.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
