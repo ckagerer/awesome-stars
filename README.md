@@ -50,6 +50,7 @@
 
 ## C 
 
+- [mcu-tools/mcuboot](https://github.com/mcu-tools/mcuboot) - Secure boot for 32-bit Microcontrollers!
 - [MaJerle/lwow](https://github.com/MaJerle/lwow) - Lightweight onewire protocol library optimized for UART hardware on embedded systems
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
