@@ -149,6 +149,7 @@
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [shell](#shell)
+- [software](#software)
 - [spacevim](#spacevim)
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
@@ -851,6 +852,7 @@
 
 ## iot 
 
+- [mcu-tools/mcuboot](https://github.com/mcu-tools/mcuboot) - Secure boot for 32-bit Microcontrollers!
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) - EMBA - The firmware security analyzer
 - [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) - Eclipse ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
 - [mrh1997/headlock](https://github.com/mrh1997/headlock) - An adapter for making C code testable from Python (see https://headlock.readthedocs.io/en/latest)
@@ -1589,6 +1591,10 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+
+## software 
+
+- [mcu-tools/mcuboot](https://github.com/mcu-tools/mcuboot) - Secure boot for 32-bit Microcontrollers!
 
 ## spacevim 
 
