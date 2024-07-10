@@ -15,7 +15,6 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
-- [Fluent](#fluent)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -153,10 +152,6 @@
 
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 
-## Fluent 
-
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-
 ## Go 
 
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
@@ -205,6 +200,7 @@
 
 ## HTML 
 
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 💻🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [PhoenixPE/PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - PhoenixPE is a PEBakery project that creates a Recovery Environment based on Win10/Win11.
