@@ -438,7 +438,6 @@
 
 ## csharp 
 
-- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3 and Polybar.
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby
 - [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
@@ -1543,6 +1542,7 @@
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -1820,7 +1820,7 @@
 - [openrecall/openrecall](https://github.com/openrecall/openrecall) - OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memor
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3 and Polybar.
+- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
