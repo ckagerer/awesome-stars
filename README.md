@@ -451,6 +451,7 @@
 
 ## Rust 
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight, terminal-based application to view and query delimiter separated value formatted documents, such as CSV or TSV files.
@@ -540,6 +541,7 @@
 
 ## TypeScript 
 
+- [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
