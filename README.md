@@ -166,7 +166,7 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-- [git-town/git-town](https://github.com/git-town/git-town) - Git made easy for teams
+- [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [kencx/keyb](https://github.com/kencx/keyb) - Create and view custom hotkey cheatsheets in the terminal
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
