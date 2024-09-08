@@ -1245,6 +1245,7 @@
 
 ## others 
 
+- [vankubo/uvConvertor](https://github.com/vankubo/uvConvertor) - A tool generate compile_commands.json from keilMDK`s .uvprojx file.
 - [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec.
 - [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) - NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix
