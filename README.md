@@ -561,6 +561,7 @@
 
 ## TypeScript 
 
+- [matepek/vscode-catch2-test-adapter](https://github.com/matepek/vscode-catch2-test-adapter) - Catch2, Google Test and doctest Adapter for the VSCode
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) - NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM
