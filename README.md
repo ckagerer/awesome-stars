@@ -91,6 +91,7 @@
 
 ## C++ 
 
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [vankubo/uvConvertor](https://github.com/vankubo/uvConvertor) - A tool generate compile_commands.json from keilMDK`s .uvprojx file.
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
@@ -368,6 +369,7 @@
 
 ## Python 
 
+- [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [NathanVaughn/vscode-task-runner](https://github.com/NathanVaughn/vscode-task-runner) - Task runner for .vscode/tasks.json files
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
