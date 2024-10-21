@@ -173,6 +173,7 @@
 
 ## Go 
 
+- [openrport/openrport](https://github.com/openrport/openrport) - Manage remote systems with ease. See more https://oss.openrport.io
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch
