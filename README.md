@@ -380,6 +380,9 @@
 
 ## Python 
 
+- [bb-Ricardo/fritzinfluxdb](https://github.com/bb-Ricardo/fritzinfluxdb) - Writes data from fritzbox to influxdb
+- [fetzerch/fritzcollectd](https://github.com/fetzerch/fritzcollectd) - A collectd plugin for monitoring AVM FRITZ!Box routers
+- [EpicWink/proxpi](https://github.com/EpicWink/proxpi) - PyPI caching proxy
 - [cdgriffith/Box](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
@@ -569,7 +572,7 @@
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [catppuccin/tmux](https://github.com/catppuccin/tmux) - 💽 Soothing pastel theme for Tmux
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
-- [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
+- [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
