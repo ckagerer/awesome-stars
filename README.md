@@ -302,7 +302,6 @@
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [nextcloud/news](https://github.com/nextcloud/news) - 📰 RSS/Atom feed reader
-- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [Gruntfuggly/auto-snippet](https://github.com/Gruntfuggly/auto-snippet) - A vscode extension to automatically insert a predefined snippet when a file is created, or an empty file is opened.
 - [emanuelef/daily-stars-explorer](https://github.com/emanuelef/daily-stars-explorer) - Gain deeper insights into your favourite open-source repositories. Explore star trends showing daily stars and go beyond the 40k-star limit.
 
