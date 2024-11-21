@@ -393,6 +393,7 @@
 
 ## PowerShell 
 
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)
 
 ## Python 
