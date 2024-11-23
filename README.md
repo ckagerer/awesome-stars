@@ -243,7 +243,6 @@
 
 ## HTML 
 
-- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [PhoenixPE/PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - PhoenixPE is a PEBakery project that creates a Recovery Environment based on Win10/Win11.
 
@@ -424,6 +423,7 @@
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
+- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [treebeardtech/nbmake](https://github.com/treebeardtech/nbmake) - 📝 Pytest plugin for testing notebooks
 - [nteract/testbook](https://github.com/nteract/testbook) - 🧪 📗  Unit test your Jupyter Notebooks the right way
 - [computationalmodelling/nbval](https://github.com/computationalmodelling/nbval) - A py.test plugin to validate Jupyter notebooks
