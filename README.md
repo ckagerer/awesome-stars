@@ -392,11 +392,11 @@
 
 ## PowerShell 
 
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)
 
 ## Python 
 
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
