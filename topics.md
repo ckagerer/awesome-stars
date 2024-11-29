@@ -1377,6 +1377,8 @@
 
 ## others 
 
+- [GoogleContainerTools/container-diff](https://github.com/GoogleContainerTools/container-diff) - container-diff: Diff your Docker containers
+- [reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci) - diff for Docker and OCI container images
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [NASA-SW-VnV/ikos](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation.
 - [digint/btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
