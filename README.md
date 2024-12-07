@@ -636,6 +636,7 @@
 
 ## TypeScript 
 
+- [SanjulaGanepola/github-local-actions](https://github.com/SanjulaGanepola/github-local-actions) - ✨ Run your GitHub Actions locally in VS Code!
 - [asciidoctor/asciidoctor-vscode](https://github.com/asciidoctor/asciidoctor-vscode) - AsciiDoc support for Visual Studio Code using Asciidoctor
 - [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [HYP3R00T/settings-organizer](https://github.com/HYP3R00T/settings-organizer) - Automatically organize and tidy up your VSCode settings.json file.
