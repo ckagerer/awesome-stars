@@ -104,6 +104,7 @@
 
 ## C++ 
 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from 
 - [modm-io/modm](https://github.com/modm-io/modm) - modm: a C++23 library generator for AVR and ARM Cortex-M devices
 - [NASA-SW-VnV/ikos](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation.
@@ -191,6 +192,7 @@
 
 ## Go 
 
+- [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
 - [PascalMinder/geoblock](https://github.com/PascalMinder/geoblock) - Traefik middleware plugin - Deny requests based on country of origin
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
@@ -293,6 +295,7 @@
 
 ## JavaScript 
 
+- [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [NirmalScaria/le-git-graph](https://github.com/NirmalScaria/le-git-graph) - Browser extension to add git graph to GitHub website.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
@@ -422,6 +425,7 @@
 
 ## Python 
 
+- [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
 - [BoboTiG/ebook-reader-dict](https://github.com/BoboTiG/ebook-reader-dict) - Finally decent dictionaries based on the Wiktionary for your beloved eBook reader. Daily updates & 14 locales supported so far.
 - [camelot-dev/excalibur](https://github.com/camelot-dev/excalibur) - A web interface to extract tabular data from PDFs
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
@@ -676,6 +680,7 @@
 
 ## TypeScript 
 
+- [Dygmalab/Bazecor](https://github.com/Dygmalab/Bazecor) - Graphical configurator for Dygma Products
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
