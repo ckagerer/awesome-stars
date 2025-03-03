@@ -310,7 +310,7 @@
 ## JavaScript 
 
 - [ecubus/EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro) - A powerful automotive ECU development tool. UDS, CAN-TP, DOIP, LIN , Script(TS) like CAPL, HIL Test
-- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama and all OpenAI API compatible Services to automatically analyze and tag your documents.
+- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 - [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
@@ -445,6 +445,7 @@
 
 ## Python 
 
+- [ikus060/minarca](https://github.com/ikus060/minarca) - Self-hosted opensource data backup for Linux, Windows and Mac. Git mirror of https://gitlab.com/ikus-soft/minarca
 - [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
 - [BoboTiG/ebook-reader-dict](https://github.com/BoboTiG/ebook-reader-dict) - Finally decent dictionaries based on the Wiktionary for your beloved eBook reader. Daily updates & 14 locales supported so far.
 - [camelot-dev/excalibur](https://github.com/camelot-dev/excalibur) - A web interface to extract tabular data from PDFs
@@ -474,7 +475,7 @@
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [openrecall/openrecall](https://github.com/openrecall/openrecall) - OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memor
 - [xpodev/extype](https://github.com/xpodev/extype) - A Python package that enables users to extend types externally.
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
