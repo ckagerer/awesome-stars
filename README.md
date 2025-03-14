@@ -291,7 +291,7 @@
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [haumacher/phoneblock](https://github.com/haumacher/phoneblock) - Der Spam-Filter für die Fritz!Box
-- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
 - [jenkinsci/warnings-ng-plugin](https://github.com/jenkinsci/warnings-ng-plugin) - Jenkins Warnings Plugin - Next Generation
 - [mediathekview/MediathekView](https://github.com/mediathekview/MediathekView) - Das Programm MediathekView durchsucht die Online-Mediatheken verschiedener Sender
@@ -463,7 +463,7 @@
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
-- [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [Akkudoktor-EOS/EOS](https://github.com/Akkudoktor-EOS/EOS) - This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity price
 - [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf) - A Python library for reading and writing PDF, powered by QPDF
