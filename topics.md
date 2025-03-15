@@ -209,7 +209,7 @@
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
-- [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [openrecall/openrecall](https://github.com/openrecall/openrecall) - OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memor
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -346,7 +346,7 @@
 ## bash 
 
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
-- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
@@ -424,7 +424,7 @@
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
-- [alondmnt/joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin (note-taking) assistant running a very intelligent system (OpenAI/GPT, Hugging Face, Gemini, Llama, Universal Sentence Encoder, etc.)
+- [alondmnt/joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin (note-taking) assistant running a very intelligent system (GPT, Claude, Gemini, Ollama, Hugging Face)
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
@@ -693,7 +693,7 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [pgautoupgrade/docker-pgautoupgrade](https://github.com/pgautoupgrade/docker-pgautoupgrade) - A PostgreSQL Docker container that automatically upgrades your database
-- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [asciidoctor/docker-asciidoctor](https://github.com/asciidoctor/docker-asciidoctor) - :ship: A Docker image for using the Asciidoctor toolchain to process AsciiDoc content
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
@@ -920,7 +920,7 @@
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [fbonalair/traefik-crowdsec-bouncer](https://github.com/fbonalair/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -956,7 +956,7 @@
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [fbonalair/traefik-crowdsec-bouncer](https://github.com/fbonalair/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -991,6 +991,7 @@
 
 ## hacktoberfest 
 
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [asciidoctor/asciidoctor-kroki](https://github.com/asciidoctor/asciidoctor-kroki) - Asciidoctor.js extension to convert diagrams to images using Kroki!
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
@@ -1111,7 +1112,7 @@
 ## html 
 
 - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
-- [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
@@ -1164,7 +1165,7 @@
 
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [haumacher/phoneblock](https://github.com/haumacher/phoneblock) - Der Spam-Filter für die Fritz!Box
-- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [owntracks/android](https://github.com/owntracks/android) - OwnTracks Android App
 - [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby
@@ -1176,7 +1177,7 @@
 
 ## javafx 
 
-- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 
 ## javascript 
 
@@ -1235,7 +1236,7 @@
 
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
@@ -1321,8 +1322,8 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
-- [alondmnt/joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin (note-taking) assistant running a very intelligent system (OpenAI/GPT, Hugging Face, Gemini, Llama, Universal Sentence Encoder, etc.)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [alondmnt/joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin (note-taking) assistant running a very intelligent system (GPT, Claude, Gemini, Ollama, Hugging Face)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
@@ -1383,7 +1384,7 @@
 ## markdown 
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [valentjn/vscode-ltex](https://github.com/valentjn/vscode-ltex) - LTeX: Grammar/spell checker :mag::heavy_check_mark: for VS Code using LanguageTool with support for LaTeX :mortar_board:, Markdown :pencil:, and others
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
@@ -1588,7 +1589,7 @@
 - [bb-Ricardo/fritzinfluxdb](https://github.com/bb-Ricardo/fritzinfluxdb) - Writes data from fritzbox to influxdb
 - [fetzerch/fritzcollectd](https://github.com/fetzerch/fritzcollectd) - A collectd plugin for monitoring AVM FRITZ!Box routers
 - [openrport/openrport](https://github.com/openrport/openrport) - Manage remote systems with ease. See more https://oss.openrport.io
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
@@ -1982,6 +1983,7 @@
 
 ## rust 
 
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
