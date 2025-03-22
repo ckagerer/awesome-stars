@@ -453,6 +453,7 @@
 
 ## cli 
 
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [ecubus/EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro) - A powerful automotive ECU development tool. UDS, CAN-TP, DOIP, LIN , Script(TS) like CAPL, HIL Test
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
@@ -835,6 +836,7 @@
 
 ## framework 
 
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
@@ -1583,6 +1585,8 @@
 
 ## others 
 
+- [ai-driven-dev/prompts](https://github.com/ai-driven-dev/prompts) - 
+- [equalsraf/win32yank](https://github.com/equalsraf/win32yank) - Windows clipboard tool
 - [devcontainers/images](https://github.com/devcontainers/images) - Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [asciidoctor/asciidoctor-diagram](https://github.com/asciidoctor/asciidoctor-diagram) - :left_right_arrow: Asciidoctor diagram extension, with support for AsciiToSVG, BlockDiag (BlockDiag, SeqDiag, ActDiag, NwDiag), Ditaa, Erd, GraphViz, Mermaid, Msc, PlantUML, Shaape, SvgBob, Syntrax, U
@@ -1822,6 +1826,7 @@
 
 ## python 
 
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [BoboTiG/ebook-reader-dict](https://github.com/BoboTiG/ebook-reader-dict) - Finally decent dictionaries based on the Wiktionary for your beloved eBook reader. Daily updates & 15 locales supported so far.
@@ -2009,6 +2014,7 @@
 
 ## rust 
 
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
@@ -2246,6 +2252,7 @@
 
 ## terminal 
 
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -2349,6 +2356,7 @@
 
 ## vim 
 
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [lambdalisue/vim-suda](https://github.com/lambdalisue/vim-suda) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
