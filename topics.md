@@ -1610,6 +1610,7 @@
 
 ## others 
 
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint) - An extremely fast directory and filename linter - Bring some structure to your project filesystem
 - [lxml/lxml](https://github.com/lxml/lxml) - The lxml XML toolkit for Python
