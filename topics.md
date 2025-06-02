@@ -475,7 +475,6 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [michidk/vscli](https://github.com/michidk/vscli) - A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers
@@ -1662,6 +1661,7 @@
 - [NASA-SW-VnV/ikos](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation.
 - [digint/btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
 - [HYP3R00T/settings-organizer](https://github.com/HYP3R00T/settings-organizer) - A VS Code extension for managing settings.json across environments. It detects, organizes, and categorizes settings, supports multiple platforms, and offers an interactive command palette for easy sel
+- [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [Akkudoktor-EOS/EOS](https://github.com/Akkudoktor-EOS/EOS) - This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity price
 - [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
 - [bb-Ricardo/fritzinfluxdb](https://github.com/bb-Ricardo/fritzinfluxdb) - Writes data from fritzbox to influxdb
