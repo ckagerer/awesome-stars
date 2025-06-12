@@ -764,7 +764,7 @@
 
 ## TypeScript 
 
-- [VikashLoomba/copilot-mcp](https://github.com/VikashLoomba/copilot-mcp) - A powerful VSCode extension that enables MCP server usage in Copilot, giving it access to MCP tools, resources, and more.
+- [VikashLoomba/copilot-mcp](https://github.com/VikashLoomba/copilot-mcp) - A powerful VSCode extension that lets you find and install MCP servers to use with GitHub Copilot..
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
