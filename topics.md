@@ -1014,6 +1014,7 @@
 
 ## good-first-issue 
 
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 
 ## google 
@@ -1310,7 +1311,6 @@
 
 ## language 
 
-- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
