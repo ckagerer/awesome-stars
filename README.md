@@ -217,6 +217,8 @@
 
 ## Go 
 
+- [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint) - An extremely fast directory and filename linter - Bring some structure to your project filesystem
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
@@ -309,6 +311,7 @@
 
 ## Java 
 
+- [CappielloAntonio/tempo](https://github.com/CappielloAntonio/tempo) - An open source and lightweight music client for Subsonic, designed and built natively for Android.
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
@@ -368,7 +371,6 @@
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
-- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [EU-EDPS/website-evidence-collector](https://github.com/EU-EDPS/website-evidence-collector) - Project moved to https://code.europa.eu/EDPS/website-evidence-collector ! The tool Website Evidence Collector (WEC) automates the website evidence collection of storage and transfer of personal data. 
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [DavidAnson/vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
@@ -391,6 +393,7 @@
 
 ## Kotlin 
 
+- [icefields/Power-Ampache-2](https://github.com/icefields/Power-Ampache-2) - Android Music Streaming App suite in Material You style.  Connects to Ampache, Nextcloud Music and compatible backends (Ampache API 4 and above).
 - [Semper-Viventem/MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - A tool for BLE environment monitoring. Find and track Bluetooth devices around, and get notified when the target device is detected.
 - [d4rken-org/bluemusic](https://github.com/d4rken-org/bluemusic) - An Android app that automates Bluetooth device specific actions such as volume adjustments.
 - [vishal2376/snaptick](https://github.com/vishal2376/snaptick) - Snaptick is an MVVM Jetpack Compose app, offering ad-free task management with a built-in pomodoro timer to help you organize your daily plans
@@ -408,6 +411,7 @@
 
 ## Lua 
 
+- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [typecraft-dev/dotfiles](https://github.com/typecraft-dev/dotfiles) - 
@@ -631,6 +635,10 @@
 
 ## Rust 
 
+- [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux.
+- [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
@@ -823,6 +831,7 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
+- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but 100% free.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
