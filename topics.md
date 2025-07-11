@@ -1955,7 +1955,7 @@
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
-- [BoboTiG/ebook-reader-dict](https://github.com/BoboTiG/ebook-reader-dict) - The greatest monolingual, bilingual, and universal, dictionaries based on the Wiktionary for your beloved eBook reader. Bimonthly updates & 15 locales supported so far.
+- [reader-dict/monolingual](https://github.com/reader-dict/monolingual) - The greatest monolingual dictionaries based on the Wiktionary for your beloved eBook reader. Bimonthly updates & 15 locales supported so far.
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
