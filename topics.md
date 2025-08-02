@@ -212,6 +212,7 @@
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -451,7 +452,6 @@
 
 ## chatgpt 
 
-- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
@@ -1428,7 +1428,7 @@
 
 ## llm 
 
-- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
+- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
@@ -1575,7 +1575,7 @@
 
 ## neovim 
 
-- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
+- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [lambdalisue/vim-suda](https://github.com/lambdalisue/vim-suda) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
@@ -1664,7 +1664,7 @@
 
 ## openai 
 
-- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
+- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
@@ -1785,7 +1785,6 @@
 - [davidlday/vscode-languagetool-linter](https://github.com/davidlday/vscode-languagetool-linter) - A from scratch redesign of LanguageTool integration for VS Code.
 - [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [mvo5/unattended-upgrades](https://github.com/mvo5/unattended-upgrades) - Automatic installation of security upgrades on apt based systems
 - [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe - display more with less
@@ -1811,7 +1810,6 @@
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
 - [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
-- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [foxundermoon/vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript、Dockerfile、properties ...... format extension
 - [mk-5/fjira](https://github.com/mk-5/fjira) - The golang fuzzy-find cli jira interface 🚀
@@ -2652,6 +2650,26 @@
 
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
+
+## zsh 
+
+- [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
+- [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
+- [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
+- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
+- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 
 
 ## License
