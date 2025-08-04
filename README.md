@@ -633,6 +633,8 @@
 
 ## Rust 
 
+- [8051Enthusiast/biodiff](https://github.com/8051Enthusiast/biodiff) - Hex diff viewer using alignment algorithms from biology
+- [8051Enthusiast/delsum](https://github.com/8051Enthusiast/delsum) - A reverse engineer's checksum toolbox
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
@@ -732,6 +734,7 @@
 
 ## Shell 
 
+- [curl/wcurl](https://github.com/curl/wcurl) - a simple wrapper around curl to easily download files
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
 - [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
