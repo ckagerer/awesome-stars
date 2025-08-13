@@ -634,6 +634,7 @@
 
 ## Rust 
 
+- [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 - [8051Enthusiast/biodiff](https://github.com/8051Enthusiast/biodiff) - Hex diff viewer using alignment algorithms from biology
 - [8051Enthusiast/delsum](https://github.com/8051Enthusiast/delsum) - A reverse engineer's checksum toolbox
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
