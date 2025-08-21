@@ -55,6 +55,7 @@
 
 ## C 
 
+- [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
 - [jibsen/tinf](https://github.com/jibsen/tinf) - Tiny inflate library (inflate, gzip, zlib)
 - [open62541/open62541](https://github.com/open62541/open62541) - Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
@@ -501,7 +502,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [ikus060/minarca](https://github.com/ikus060/minarca) - Self-hosted opensource data backup for Linux, Windows and Mac. Git mirror of https://gitlab.com/ikus-soft/minarca
 - [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
-- [reader-dict/monolingual](https://github.com/reader-dict/monolingual) - Discover the most comprehensive monolingual dictionaries built on Wiktionary—bimonthly updates, 15 languages supported.
+- [reader-dict/monolingual](https://github.com/reader-dict/monolingual) - Discover the most comprehensive dictionaries built on Wiktionary. Universal, multilingual & monolingual—bimonthly updates, 180+ languages supported.
 - [camelot-dev/excalibur](https://github.com/camelot-dev/excalibur) - A web interface to extract tabular data from PDFs
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -529,7 +530,7 @@
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native
 - [openrecall/openrecall](https://github.com/openrecall/openrecall) - OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memor
 - [xpodev/extype](https://github.com/xpodev/extype) - A Python package that enables users to extend types externally.
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
