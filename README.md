@@ -90,6 +90,7 @@
 
 ## C# # 
 
+- [builtbybel/Flyby11](https://github.com/builtbybel/Flyby11) - Windows 11 Upgrading Assistant
 - [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [greenshot/greenshot](https://github.com/greenshot/greenshot) - Greenshot for Windows - Report bugs & features go here: https://greenshot.atlassian.net or look for information on:
@@ -447,6 +448,7 @@
 
 ## Others 
 
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, T
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
 - [kba/awesome-ocr](https://github.com/kba/awesome-ocr) - Links to awesome OCR projects
