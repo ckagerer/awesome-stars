@@ -1710,7 +1710,8 @@
 
 ## others 
 
-- [builtbybel/Flyby11](https://github.com/builtbybel/Flyby11) - Fly smoothly through your Windows 11 setup 🐝
+- [SMTP2Graph/SMTP2Graph](https://github.com/SMTP2Graph/SMTP2Graph) - A robust, versatile and lightweight multiplatform application that will run an SMTP server which relays messages over Microsoft 365/Exchange Online using the Microsoft Graph API
+- [builtbybel/Flyby11](https://github.com/builtbybel/Flyby11) - Fly through your Windows 11 setup 🐝
 - [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance) - Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories.
 - [Zygo/bees](https://github.com/Zygo/bees) - Best-Effort Extent-Same, a btrfs dedupe agent
 - [curl/wcurl](https://github.com/curl/wcurl) - a simple wrapper around curl to easily download files
