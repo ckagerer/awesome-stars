@@ -302,6 +302,7 @@
 
 ## HTML 
 
+- [phryniszak/stm32g-fdcan](https://github.com/phryniszak/stm32g-fdcan) - FDCAN configuration calculator for stm32g4
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM
 - [haumacher/phoneblock](https://github.com/haumacher/phoneblock) - Der Spam-Filter für Dein Telefon
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
@@ -734,7 +735,7 @@
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [vadimcn/codelldb](https://github.com/vadimcn/codelldb) - A native debugger extension for VSCode based on LLDB
 - [russellbanks/Komac](https://github.com/russellbanks/Komac) - The Community Manifest Creator for WinGet
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
