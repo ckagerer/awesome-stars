@@ -90,6 +90,7 @@
 
 ## C# # 
 
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
 - [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
@@ -186,6 +187,7 @@
 
 ## Crystal 
 
+- [Morantron/tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints.
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
 ## Dart 
@@ -340,6 +342,7 @@
 
 ## JavaScript 
 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer) - With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
@@ -496,6 +499,7 @@
 
 ## Python 
 
+- [AlfredoSequeida/hints](https://github.com/AlfredoSequeida/hints) - Hints lets you navigate GUI applications in Linux without your mouse by displaying "hints" you can type on your keyboard to interact with GUI elements.
 - [EbodShojaei/bake](https://github.com/EbodShojaei/bake) - mbake is a Makefile formatter and linter. It only took 50 years!
 - [finsberg/clang-format-docs](https://github.com/finsberg/clang-format-docs) - Run `clang-format` on C++ code blocks in documentation files
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
@@ -796,6 +800,7 @@
 
 ## TypeScript 
 
+- [stefanw/bibbot](https://github.com/stefanw/bibbot) - BibBot is a browser extension that removes the paywall on German online news sites using your library account's access to press databases.
 - [SMTP2Graph/SMTP2Graph](https://github.com/SMTP2Graph/SMTP2Graph) - A robust, versatile and lightweight multiplatform application that will run an SMTP server which relays messages over Microsoft 365/Exchange Online using the Microsoft Graph API
 - [Marus/cortex-debug](https://github.com/Marus/cortex-debug) - Visual Studio Code extension for enhancing debug capabilities for Cortex-M Microcontrollers
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
