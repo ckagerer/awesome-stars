@@ -1137,6 +1137,7 @@
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM
+- [dalyIsaac/Whim](https://github.com/dalyIsaac/Whim) - Pluggable dynamic window manager for Windows🏗️🪟
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
@@ -1174,6 +1175,7 @@
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [michidk/vscli](https://github.com/michidk/vscli) - A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers
+- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [jenkinsci/warnings-ng-plugin](https://github.com/jenkinsci/warnings-ng-plugin) - Jenkins Warnings Plugin - Next Generation
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
@@ -1236,7 +1238,6 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 
 ## haskell 
