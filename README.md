@@ -807,7 +807,7 @@
 
 ## TypeScript 
 
-- [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for email archiving and eDiscovery.
+- [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [stefanw/bibbot](https://github.com/stefanw/bibbot) - BibBot is a browser extension that removes the paywall on German online news sites using your library account's access to press databases.
 - [SMTP2Graph/SMTP2Graph](https://github.com/SMTP2Graph/SMTP2Graph) - A robust, versatile and lightweight multiplatform application that will run an SMTP server which relays messages over Microsoft 365/Exchange Online using the Microsoft Graph API
 - [Marus/cortex-debug](https://github.com/Marus/cortex-debug) - Visual Studio Code extension for enhancing debug capabilities for Cortex-M Microcontrollers
