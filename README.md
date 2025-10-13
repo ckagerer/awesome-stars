@@ -55,6 +55,8 @@
 
 ## C 
 
+- [Seagate/openSeaChest](https://github.com/Seagate/openSeaChest) - Cross platform utilities useful for configuring features and assessing health on SATA, SAS, NVMe, and USB storage devices.
+- [facebook/openzl](https://github.com/facebook/openzl) - A novel data compression framework
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
 - [jibsen/tinf](https://github.com/jibsen/tinf) - Tiny inflate library (inflate, gzip, zlib)
 - [open62541/open62541](https://github.com/open62541/open62541) - Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0
