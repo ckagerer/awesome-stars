@@ -1142,6 +1142,7 @@
 
 ## hacktoberfest 
 
+- [domferr/tilingshell](https://github.com/domferr/tilingshell) - Extend Gnome Shell with advanced tiling window management. Supports multiple monitors, Windows 11 Snap Assistant, Fancy Zones, customised tiling layouts and more.
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hostable alternative to Google Timeline (Google Location History)
@@ -1788,6 +1789,8 @@
 
 ## others 
 
+- [CaramelFur/GPhotosShim](https://github.com/CaramelFur/GPhotosShim) - Use the Google camera app with your own gallery app instead of Google photos
+- [gerritdevriese/kzones](https://github.com/gerritdevriese/kzones) - KDE KWin Script for snapping windows into zones
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [Seagate/openSeaChest](https://github.com/Seagate/openSeaChest) - Cross platform utilities useful for configuring features and assessing health on SATA, SAS, NVMe, and USB storage devices.
 - [facebook/openzl](https://github.com/facebook/openzl) - A novel data compression framework
@@ -1802,7 +1805,7 @@
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [SMTP2Graph/SMTP2Graph](https://github.com/SMTP2Graph/SMTP2Graph) - A robust, versatile and lightweight multiplatform application that will run an SMTP server which relays messages over Microsoft 365/Exchange Online using the Microsoft Graph API
-- [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
+- [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
 - [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance) - Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories.
 - [Zygo/bees](https://github.com/Zygo/bees) - Best-Effort Extent-Same, a btrfs dedupe agent
 - [curl/wcurl](https://github.com/curl/wcurl) - a simple wrapper around curl to easily download files
