@@ -826,6 +826,8 @@
 
 ## TypeScript 
 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
+- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [domferr/tilingshell](https://github.com/domferr/tilingshell) - Extend Gnome Shell with advanced tiling window management. Supports multiple monitors, Windows 11 Snap Assistant, Fancy Zones, customised tiling layouts and more.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [niwciu/stm32-build-analyzer](https://github.com/niwciu/stm32-build-analyzer) - Build Analyzer for VSCode
