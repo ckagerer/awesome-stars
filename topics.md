@@ -504,6 +504,7 @@
 
 ## cli 
 
+- [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit app
@@ -1459,6 +1460,7 @@
 
 ## linux 
 
+- [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [rafatosta/zapzap](https://github.com/rafatosta/zapzap) - WhatsApp desktop application written in PyQt6 + PyQt6-WebEngine.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
@@ -1653,6 +1655,7 @@
 
 ## music 
 
+- [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [icefields/Power-Ampache-2](https://github.com/icefields/Power-Ampache-2) - Android Music Streaming App suite in Material You style.  Connects to Ampache, Nextcloud Music and compatible backends (Ampache API 4 and above).
 - [CappielloAntonio/tempo](https://github.com/CappielloAntonio/tempo) - An open source and lightweight music client for Subsonic, designed and built natively for Android.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
@@ -2837,6 +2840,7 @@
 
 ## youtube 
 
+- [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
