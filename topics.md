@@ -807,7 +807,7 @@
 ## docker 
 
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -1323,7 +1323,7 @@
 
 ## iot 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [armink/FlashDB](https://github.com/armink/FlashDB) - An ultra-lightweight database that supports key-value and time series data |  一款支持 KV 数据和时序数据的超轻量级数据库
 - [RIOT-OS/RIOT](https://github.com/RIOT-OS/RIOT) - RIOT -  The friendly OS for IoT
 - [mcu-tools/mcuboot](https://github.com/mcu-tools/mcuboot) - Secure boot for 32-bit Microcontrollers!
@@ -1530,7 +1530,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call any LLM API with cost tracking, guardrails, logging and load balancing. 1.8k+ models, 80+ providers, 50+ endpoints (unified + native format). Available as a Python SDK or Proxy Server (AI Gateway
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [alondmnt/joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin (note-taking) assistant running a very intelligent system (GPT, Claude, Gemini, Ollama, Hugging Face)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
@@ -1785,7 +1785,7 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call any LLM API with cost tracking, guardrails, logging and load balancing. 1.8k+ models, 80+ providers, 50+ endpoints (unified + native format). Available as a Python SDK or Proxy Server (AI Gateway
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
 ## opencv 
@@ -1804,7 +1804,6 @@
 ## others 
 
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
-- [abbodi1406/ConsumerESU](https://github.com/abbodi1406/ConsumerESU) - Windows 10 Consumer ESU Enrollment
 - [CaramelFur/GPhotosShim](https://github.com/CaramelFur/GPhotosShim) - Use the Google camera app with your own gallery app instead of Google photos
 - [gerritdevriese/kzones](https://github.com/gerritdevriese/kzones) - KDE KWin Script for snapping windows into zones
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
@@ -2469,7 +2468,7 @@
 
 ## self-hosted 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hostable alternative to Google Timeline (Google Location History)
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [icefields/Power-Ampache-2](https://github.com/icefields/Power-Ampache-2) - Android Music Streaming App suite in Material You style.  Connects to Ampache, Nextcloud Music and compatible backends (Ampache API 4 and above).
