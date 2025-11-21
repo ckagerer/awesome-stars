@@ -1168,7 +1168,6 @@
 - [dalyIsaac/Whim](https://github.com/dalyIsaac/Whim) - Pluggable dynamic window manager for Windows🏗️🪟
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
-- [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
 - [NirmalScaria/le-git-graph](https://github.com/NirmalScaria/le-git-graph) - Browser extension to add git graph to GitHub website.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
