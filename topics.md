@@ -87,6 +87,7 @@
 - [game-engine](#game-engine)
 - [games](#games)
 - [gaming](#gaming)
+- [generative-ai](#generative-ai)
 - [gh-extension](#gh-extension)
 - [git](#git)
 - [github](#github)
@@ -1040,6 +1041,10 @@
 
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
+
+## generative-ai 
+
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 
 ## gh-extension 
 
