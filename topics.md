@@ -948,6 +948,7 @@
 
 ## emacs 
 
+- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
 ## embedded 
@@ -1605,6 +1606,7 @@
 
 ## llm 
 
+- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
 - [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
@@ -1678,6 +1680,7 @@
 
 ## markdown 
 
+- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
@@ -1760,6 +1763,7 @@
 
 ## neovim 
 
+- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [lambdalisue/vim-suda](https://github.com/lambdalisue/vim-suda) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
