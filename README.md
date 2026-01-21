@@ -41,7 +41,6 @@
 - [PowerShell](#powershell)
 - [Python](#python)
 - [QML](#qml)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -672,10 +671,6 @@
 
 - [gerritdevriese/kzones](https://github.com/gerritdevriese/kzones) - KDE KWin Script for snapping windows into zones
 
-## Roff 
-
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-
 ## Ruby 
 
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
@@ -844,6 +839,7 @@
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## TeX 
 
@@ -935,7 +931,7 @@
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [mhutchie/vscode-git-graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
 - [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
