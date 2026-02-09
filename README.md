@@ -333,7 +333,6 @@
 - [Philip2809/neato-connected](https://github.com/Philip2809/neato-connected) - Control your neato vacuum cleaner locally via home assistant!
 - [phryniszak/stm32g-fdcan](https://github.com/phryniszak/stm32g-fdcan) - FDCAN configuration calculator for stm32g4
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM
-- [reader-dict/monolingual](https://github.com/reader-dict/monolingual) - The most comprehensive universal, multilingual, and monolingual dictionaries—perfect for e-readers, phones, tablets, and desktop apps. Powered by Wiktionary.
 - [haumacher/phoneblock](https://github.com/haumacher/phoneblock) - Der Spam-Filter für Dein Telefon
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
@@ -435,6 +434,7 @@
 
 ## Kotlin 
 
+- [dijia1124/PlusPlusBattery](https://github.com/dijia1124/PlusPlusBattery) - A lightweight battery info and health estimation tool.
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime coverage for PC (Python/C++), mobile (Android & iOS), and Linux/IoT (Arm64 & x86 Docker). Suppo
@@ -563,6 +563,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [ikus060/minarca](https://github.com/ikus060/minarca) - Self-hosted opensource data backup for Linux, Windows and Mac. Git mirror of https://gitlab.com/ikus-soft/minarca
 - [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
+- [reader-dict/monolingual](https://github.com/reader-dict/monolingual) - The most comprehensive universal, multilingual, and monolingual dictionaries—perfect for e-readers, phones, tablets, and desktop apps. Powered by Wiktionary.
 - [camelot-dev/excalibur](https://github.com/camelot-dev/excalibur) - A web interface to extract tabular data from PDFs
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -871,7 +872,7 @@
 - [numman-ali/n-skills](https://github.com/numman-ali/n-skills) - Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans visually, share with your team, send feedback with one click.
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
