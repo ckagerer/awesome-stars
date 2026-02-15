@@ -1960,6 +1960,9 @@
 
 ## others 
 
+- [iceyear/readeck.koplugin](https://github.com/iceyear/readeck.koplugin) - KoReader plugin for Readeck servers
+- [benbenbang/uv-shell](https://github.com/benbenbang/uv-shell) - A shell wrapper for uv - a python deps manager
+- [anujja/DoNotNotify](https://github.com/anujja/DoNotNotify) - DoNotNotify app
 - [dijia1124/PlusPlusBattery](https://github.com/dijia1124/PlusPlusBattery) - A lightweight battery info and health estimation tool.
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 - [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library
