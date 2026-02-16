@@ -1728,6 +1728,7 @@
 
 ## markdown 
 
+- [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -1960,6 +1961,7 @@
 
 ## others 
 
+- [i5heu/ublock-hide-yt-shorts](https://github.com/i5heu/ublock-hide-yt-shorts) - Maintained - uBlock Origin filter list to hide YouTube Shorts
 - [iceyear/readeck.koplugin](https://github.com/iceyear/readeck.koplugin) - KoReader plugin for Readeck servers
 - [benbenbang/uv-shell](https://github.com/benbenbang/uv-shell) - A shell wrapper for uv - a python deps manager
 - [anujja/DoNotNotify](https://github.com/anujja/DoNotNotify) - DoNotNotify app
@@ -2503,6 +2505,7 @@
 
 ## ruby 
 
+- [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
 - [asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf) - :page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.
 - [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby / Rust
