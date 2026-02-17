@@ -885,7 +885,7 @@
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [Marus/cortex-debug](https://github.com/Marus/cortex-debug) - Visual Studio Code extension for enhancing debug capabilities for Cortex-M Microcontrollers
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
-- [VikashLoomba/copilot-mcp](https://github.com/VikashLoomba/copilot-mcp) - A powerful VSCode extension that lets you find and install Agent Skills and MCP Apps to use with GitHub Copilot, Claude Code, and Codex CLI.
+- [VikashLoomba/copilot-mcp](https://github.com/VikashLoomba/copilot-mcp) - A VSCode extension that lets you find and install Agent Skills and MCP Apps to use with GitHub Copilot, Claude Code, and Codex CLI.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
@@ -954,7 +954,7 @@
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [mhutchie/vscode-git-graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
