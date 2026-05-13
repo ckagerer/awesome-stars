@@ -2164,7 +2164,7 @@
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
 - [boxdot/gurk-rs](https://github.com/boxdot/gurk-rs) - Signal Messenger client for terminal
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [aras-p/ClangBuildAnalyzer](https://github.com/aras-p/ClangBuildAnalyzer) - Clang build analysis tool using -ftime-trace
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
 - [ai-driven-dev/prompts](https://github.com/ai-driven-dev/prompts) - 
