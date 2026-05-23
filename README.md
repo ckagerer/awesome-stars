@@ -934,7 +934,7 @@
 - [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-- [Philip2809/neato-brainslug](https://github.com/Philip2809/neato-brainslug) - Control your Neato vacuum locally with an ESPHome brainslug
+- [vacuula/fang](https://github.com/vacuula/fang) - Control your Neato vacuum locally with the fang of vacuula
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [domferr/tilingshell](https://github.com/domferr/tilingshell) - Extend Gnome Shell with advanced tiling window management. Supports multiple monitors, Windows 11 Snap Assistant, Fancy Zones, customised tiling layouts and more.
