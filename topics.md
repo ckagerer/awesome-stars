@@ -2157,7 +2157,7 @@
 - [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills
 - [tillig/json-sort-cli](https://github.com/tillig/json-sort-cli) - Runs JSON stable sort on specified files via CLI or as a pre-commit hook.
 - [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) - Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface
-- [Philip2809/neato-brainslug](https://github.com/Philip2809/neato-brainslug) - Control your Neato vacuum locally with an ESPHome brainslug
+- [vacuula/fang](https://github.com/vacuula/fang) - Control your Neato vacuum locally with the fang of vacuula
 - [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust
 - [okrc/CachyOS-WSL](https://github.com/okrc/CachyOS-WSL) - 
 - [Limine-Bootloader/Limine](https://github.com/Limine-Bootloader/Limine) - Modern, secure, portable, multiprotocol bootloader and boot manager.
