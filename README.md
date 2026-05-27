@@ -570,6 +570,7 @@
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [dbisu/pico-ducky](https://github.com/dbisu/pico-ducky) - Create a USB Rubber Ducky like device using a Raspberry PI Pico
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
@@ -869,7 +870,6 @@
 - [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [okrc/CachyOS-WSL](https://github.com/okrc/CachyOS-WSL) - 
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit app
