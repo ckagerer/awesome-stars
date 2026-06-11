@@ -371,7 +371,6 @@
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [freerouting/freerouting](https://github.com/freerouting/freerouting) - Advanced PCB auto-router
-- [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
@@ -382,6 +381,7 @@
 
 ## JavaScript 
 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans, available for Chrome, Edge and Firefox
@@ -394,7 +394,7 @@
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [meetfranz/franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Code, Claude Design, Opus 4.8, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex, Google - Gemini - 3.5 Flash, 3.1 Pro, Antigravity, xA
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer) - With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
 - [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
@@ -455,7 +455,6 @@
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
-- [qualcomm/nexa-sdk](https://github.com/qualcomm/nexa-sdk) - Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime coverage for PC (Python/C++), mobile (Android & iOS), and Linux/IoT (Arm64 & x86 Docker). Suppo
 - [CaramelFur/GPhotosShim](https://github.com/CaramelFur/GPhotosShim) - Use the Google camera app with your own gallery app instead of Google photos
 - [FossifyOrg/Gallery](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
 - [FossifyOrg/Calendar](https://github.com/FossifyOrg/Calendar) - A simple calendar with events, customizable widgets and no ads.
@@ -474,6 +473,7 @@
 - [wgtunnel/android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
+- [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
 
 ## Lua 
@@ -736,7 +736,7 @@
 ## Rust 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [zerx-lab/zap](https://github.com/zerx-lab/zap) - Zap is an open, local-first terminal with first-class AI and agent support.
 - [armgabrielyan/deadbranch](https://github.com/armgabrielyan/deadbranch) - Clean up stale git branches safely.
@@ -758,6 +758,7 @@
 - [VorpalBlade/chezmoi_modify_manager](https://github.com/VorpalBlade/chezmoi_modify_manager) - Tools for chezmoi to handle mixed settings and state
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal
+- [qualcomm/nexa-sdk](https://github.com/qualcomm/nexa-sdk) - Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime coverage for PC (Python/C++), mobile (Android & iOS), and Linux/IoT (Arm64 & x86 Docker). Suppo
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
@@ -925,7 +926,6 @@
 ## TypeScript 
 
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
 - [jalonsogo/tui-studio](https://github.com/jalonsogo/tui-studio) - Visual design tool for building Terminal User Interfaces
