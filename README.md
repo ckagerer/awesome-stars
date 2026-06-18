@@ -413,7 +413,7 @@
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [fudgepop01/kaitai_ide_vscode](https://github.com/fudgepop01/kaitai_ide_vscode) - A VSCode extension built to assist the creation and debugging of kaitai struct files
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
-- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - an encrypted dotenv–from the creator of `dotenv`
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
