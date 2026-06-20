@@ -80,7 +80,6 @@
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [FreeRTOS/FreeRTOS-Kernel](https://github.com/FreeRTOS/FreeRTOS-Kernel) - FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) - Eclipse ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
 - [smaroukis/usb-sleuth](https://github.com/smaroukis/usb-sleuth) - USB cable continuity tester ++
@@ -242,6 +241,7 @@
 ## Go 
 
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager
+- [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [alash3al/stash](https://github.com/alash3al/stash) - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.
 - [runkids/skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more
@@ -310,6 +310,7 @@
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI is an open source client for container development
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [owenrumney/lazytrivy](https://github.com/owenrumney/lazytrivy) - Vulnerability scanning just got lazier
@@ -565,7 +566,6 @@
 
 ## Python 
 
-- [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
