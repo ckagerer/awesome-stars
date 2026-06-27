@@ -363,7 +363,7 @@
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [ossappscollective/OSS-DocumentScanner](https://github.com/ossappscollective/OSS-DocumentScanner) - Document scanning app
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
-- [wgtunnel/android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
+- [wgtunnel/android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & local proxying.
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
@@ -1279,7 +1279,7 @@
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [GBerghoff/envdiff](https://github.com/GBerghoff/envdiff) - cli tool to snapshot and diff environments - helping find the differences that matter
-- [qualcomm/nexa-sdk](https://github.com/qualcomm/nexa-sdk) - Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime coverage for PC (Python/C++), mobile (Android & iOS), and Linux/IoT (Arm64 & x86 Docker). Suppo
+- [qualcomm/GenieX](https://github.com/qualcomm/GenieX) - Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of code
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
@@ -1649,7 +1649,7 @@
 - [vishal2376/snaptick](https://github.com/vishal2376/snaptick) - Snaptick is an MVVM Jetpack Compose app, offering ad-free task management with a built-in pomodoro timer to help you organize your daily plans
 - [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
 - [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.
-- [wgtunnel/android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
+- [wgtunnel/android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & local proxying.
 
 ## json 
 
@@ -1694,7 +1694,7 @@
 - [vishal2376/snaptick](https://github.com/vishal2376/snaptick) - Snaptick is an MVVM Jetpack Compose app, offering ad-free task management with a built-in pomodoro timer to help you organize your daily plans
 - [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
 - [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android
-- [wgtunnel/android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
+- [wgtunnel/android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & local proxying.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 
 ## kubernetes 
@@ -1820,7 +1820,7 @@
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
-- [qualcomm/nexa-sdk](https://github.com/qualcomm/nexa-sdk) - Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime coverage for PC (Python/C++), mobile (Android & iOS), and Linux/IoT (Arm64 & x86 Docker). Suppo
+- [qualcomm/GenieX](https://github.com/qualcomm/GenieX) - Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of code
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -2995,7 +2995,6 @@
 
 ## stable-diffusion 
 
-- [qualcomm/nexa-sdk](https://github.com/qualcomm/nexa-sdk) - Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime coverage for PC (Python/C++), mobile (Android & iOS), and Linux/IoT (Arm64 & x86 Docker). Suppo
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
 ## statistics 
