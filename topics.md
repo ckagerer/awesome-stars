@@ -546,7 +546,6 @@
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 - [mrh1997/headlock](https://github.com/mrh1997/headlock) - An adapter for making C code testable from Python (see https://headlock.readthedocs.io/en/latest)
-- [redasm-dev/redasm](https://github.com/redasm-dev/redasm) - The OpenSource Disassembler
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [nanopb/nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
