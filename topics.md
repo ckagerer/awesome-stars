@@ -1860,7 +1860,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [alondmnt/joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin (note-taking) assistant running a very intelligent system (GPT, Claude, Gemini, Ollama, Hugging Face)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
@@ -2158,7 +2158,7 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 
 ## opencv 
 
@@ -2838,7 +2838,7 @@
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast, feature-rich static code analyzer & language server for Python
 - [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby / Rust
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
