@@ -137,7 +137,7 @@
 - [ccache/ccache](https://github.com/ccache/ccache) - ccache – a fast compiler cache
 - [aras-p/ClangBuildAnalyzer](https://github.com/aras-p/ClangBuildAnalyzer) - Clang build analysis tool using -ftime-trace
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [ecubus/EcuBus-Pro](https://github.com/ecubus/EcuBus-Pro) - A powerful automotive ECU development tool. UDS, CAN-TP, DOIP, LIN , Script(TS) like CAPL, HIL Test
