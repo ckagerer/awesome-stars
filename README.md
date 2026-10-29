@@ -75,7 +75,6 @@
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
 - [armink/FlashDB](https://github.com/armink/FlashDB) - An ultra-lightweight database that supports key-value and time series data |  一款支持 KV 数据和时序数据的超轻量级数据库
-- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [RIOT-OS/RIOT](https://github.com/RIOT-OS/RIOT) - RIOT -  The friendly OS for IoT
 - [mcu-tools/mcuboot](https://github.com/mcu-tools/mcuboot) - Secure boot for 32-bit Microcontrollers!
 - [MaJerle/lwow](https://github.com/MaJerle/lwow) - Lightweight onewire protocol library for embedded systems. It uses UART peripheral or GPIO toggling
@@ -131,7 +130,7 @@
 - [google/perfetto](https://github.com/google/perfetto) - Production-grade client-side tracing, profiling, and analysis for complex software systems.
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - KoboldCpp - Run GGUF AI models locally with a KoboldAI UI. One File. Zero Install.
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
-- [facebook/openzl](https://github.com/facebook/openzl) - A novel take on lossless data compression
+- [meta/openzl](https://github.com/meta/openzl) - A novel take on lossless data compression
 - [Zygo/bees](https://github.com/Zygo/bees) - Best-Effort Extent-Same, a btrfs dedupe agent
 - [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 - [ccache/ccache](https://github.com/ccache/ccache) - ccache – a fast compiler cache
@@ -150,6 +149,7 @@
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
 - [windirstat/windirstat](https://github.com/windirstat/windirstat) - Windows disk usage analyzer and cleanup tool with interactive treemaps, large-file discovery, duplicate detection, and file-system monitoring.
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
+- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [vankubo/uvConvertor](https://github.com/vankubo/uvConvertor) - A tool generate compile_commands.json from keilMDK`s .uvprojx file.
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
@@ -219,7 +219,6 @@
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 
 ## Dockerfile 
 
@@ -488,6 +487,7 @@
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [wgtunnel/android](https://github.com/wgtunnel/android) - An advanced, open-source client for WireGuard and AmneziaWG on Android.
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [oliexdev/openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
@@ -524,9 +524,9 @@
 
 ## OCaml 
 
-- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
+- [meta/infer](https://github.com/meta/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [darrenldl/docfd](https://github.com/darrenldl/docfd) - TUI multiline fuzzy document finder
-- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
+- [meta/pyre-check](https://github.com/meta/pyre-check) - Performant type-checking for python.
 
 ## Others 
 
@@ -579,6 +579,8 @@
 
 ## Python 
 
+- [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [Ericsson/codechecker](https://github.com/Ericsson/codechecker) - CodeChecker is an analyzer tooling, defect database and viewer extension for static and dynamic analyzer tools.
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) - A pre-commit hook for Ruff.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
@@ -816,7 +818,7 @@
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more)
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
-- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
+- [meta/pyrefly](https://github.com/meta/pyrefly) - A fast type checker and language server for Python
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
@@ -991,7 +993,7 @@
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
-- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
+- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Deterministic testing tools for MCP servers
 - [DucPhamNgoc08/CodeVisualizer](https://github.com/DucPhamNgoc08/CodeVisualizer) - CodeVisualizer is a powerful VS Code extension that provides two main visualization capabilities: function-level flowcharts for understanding code control flow, and codebase-level dependency graphs fo
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
