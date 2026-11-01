@@ -297,6 +297,7 @@
 
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight!  Android, Linux waitlist open! A local Wispr Flow alternative. Follow https://
@@ -345,7 +346,6 @@
 ## ai-agents 
 
 - [raine/git-surgeon](https://github.com/raine/git-surgeon) - Git primitives for autonomous coding agents
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [slopus/happy](https://github.com/slopus/happy) - Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
@@ -385,6 +385,7 @@
 
 ## android 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads) - A mobile books tracker written in Flutter that respects your privacy.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [gwitko/Conduit](https://github.com/gwitko/Conduit) - A mobile terminal workspace for Android and iOS with SSH, Mosh, SFTP, hardware-key auth, tmux helpers, and an optional local shell.
@@ -469,6 +470,7 @@
 
 ## artificial-intelligence 
 
+- [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -688,6 +690,7 @@
 
 ## claude-code 
 
+- [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -908,6 +911,7 @@
 ## cpp 
 
 - [Ericsson/codechecker](https://github.com/Ericsson/codechecker) - CodeChecker is an analyzer tooling, defect database and viewer extension for static and dynamic analyzer tools.
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 - [ccache/ccache](https://github.com/ccache/ccache) - ccache – a fast compiler cache
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -1053,7 +1057,7 @@
 
 ## developer-tools 
 
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
@@ -1673,6 +1677,7 @@
 
 ## html 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
@@ -1737,6 +1742,7 @@
 
 ## java 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android with multiple sources 🌦🌞☔
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
@@ -1757,6 +1763,7 @@
 
 ## javascript 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android with multiple sources 🌦🌞☔
@@ -1883,6 +1890,7 @@
 ## linux 
 
 - [Ericsson/codechecker](https://github.com/Ericsson/codechecker) - CodeChecker is an analyzer tooling, defect database and viewer extension for static and dynamic analyzer tools.
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [itbh-at/wusel](https://github.com/itbh-at/wusel) - Wusel - Nextcloud, woven into your desktop.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [VocaHQ/vocalinux](https://github.com/VocaHQ/vocalinux) - Free, open-source, 100% offline voice dictation for Linux. Speak and type anywhere via whisper.cpp, Whisper & VOSK engines, GPU-accelerated, works on X11 + Wayland!
@@ -1959,10 +1967,10 @@
 
 ## llm 
 
+- [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -2222,6 +2230,7 @@
 
 ## nodejs 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
@@ -2263,6 +2272,7 @@
 
 ## open-source 
 
+- [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents
 - [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads) - A mobile books tracker written in Flutter that respects your privacy.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -2288,6 +2298,7 @@
 
 ## openai 
 
+- [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
@@ -2320,7 +2331,6 @@
 ## others 
 
 - [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot) - Your local AI copilot for documents
-- [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) - A pre-commit hook for Ruff.
 - [rui314/mold](https://github.com/rui314/mold) - mold 🦠: A Modern Linker in Rust 🦀
 - [LalitMaganti/buildprof](https://github.com/LalitMaganti/buildprof) - Records every process and file access in a build and shows it as an interactive timeline
@@ -2643,6 +2653,7 @@
 
 ## productivity 
 
+- [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) - Experience-Driven Black-Box Cost Control for Coding Agents
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
@@ -2702,6 +2713,7 @@
 ## python 
 
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
@@ -2880,6 +2892,7 @@
 
 ## react 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
@@ -2912,7 +2925,6 @@
 
 ## reverse-engineering 
 
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
 - [8051Enthusiast/biodiff](https://github.com/8051Enthusiast/biodiff) - Hex diff viewer using alignment algorithms from biology
@@ -2943,6 +2955,7 @@
 
 ## rust 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [dmmulroy/jj-starship](https://github.com/dmmulroy/jj-starship) - Fast unified Starship prompt module for Git and Jujutsu repositories
 - [itbh-at/wusel](https://github.com/itbh-at/wusel) - Wusel - Nextcloud, woven into your desktop.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -3052,6 +3065,7 @@
 
 ## security 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
@@ -3375,6 +3389,7 @@
 ## typescript 
 
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [MaibornWolff/codecharta](https://github.com/MaibornWolff/codecharta) - CodeCharta is a visualization tool that transforms complex software architecture and code metrics into interactive, customizable visual maps, empowering everyone to communicate and analyze your codeba
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
